@@ -14,8 +14,8 @@ Recent Master's graduate in Computer Science, eager to apply his skills to real-
       aria-label="View skill icons repository"
     >
       <img
-        src="https://go-skill-icons.vercel.app/api/icons?i=rust,python,html,css,tailwind,typescript,bun,react,next,java,mysql"
-        alt="Tech Stack: Rust, Python, HTML, CSS, Tailwind, TypeScript, Bun, React, Next.js, Java, MySQL"
+        src="https://go-skill-icons.vercel.app/api/icons?i=rust,python,typescript,html,css,tailwind,bun,react,next,java,mysql"
+        alt="Tech Stack: Rust, Python, TypeScript, HTML, CSS, Tailwind, Bun, React, Next.js, Java, MySQL"
       />
     </a>
   </p>
